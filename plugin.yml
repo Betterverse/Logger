@@ -1,0 +1,12 @@
+name: OKLogger
+author: Kalman Olah
+main: me.kalmanolah.ol.OKmain
+version: 1.1.6
+database: false
+description: >
+             A simple logging plugin for Bukkit.
+commands:
+  ol:
+    description: Main OKLogger command.
+    usage: |
+           Usage: /<command>
