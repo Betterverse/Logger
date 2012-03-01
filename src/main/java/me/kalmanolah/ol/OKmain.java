@@ -17,7 +17,7 @@ public class OKmain extends JavaPlugin {
 
 	public static String name;
 	public static String version;
-	public static ArrayList<String> authors;
+	public static List<String> authors;
 	public OKCommandManager commandManager = new OKCommandManager(this);
 	public static String maxlogs;
 	public static boolean chatlogs = true;
